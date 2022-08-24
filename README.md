@@ -5,7 +5,7 @@
   <br>
 
 <p align=center>
-  <a href="https://www.instagram.com/bhikan_deshmukh"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+  <a href="https://www.instagram.com/jisu29"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
   </p>
 
 ###### <p align="center"> *MapEye*
@@ -16,17 +16,17 @@
 
 ###### <p align="center">Accurate GPS Location Tracker (Android, IOS, Windows phones.)
 <p align=center>
-  <a href="https://www.instagram.com/bhikan_deshmukh"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
-  <a href="https://www.instagram.com/bhikan_deshmukh"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0" ></a>
-  <a href="https://www.instagram.com/bhikan_deshmukh"><img title="Stars" src="https://img.shields.io/github/stars/bhikandeshmukh/MapEye?style=social" ></a>
-  <a href="https://github.com/bhikandeshmukh/followers"><img title="Followers" src="https://img.shields.io/github/followers/bhikandeshmukh?color=blue&style=flat-square"></a>
-  <a href="https://github.com/bhikandeshmukh/MapEye/network/members"><img title="Forks" src="https://img.shields.io/github/forks/bhikandeshmukh/MapEye?color=red&style=flat-square"></a>
-  <a href="https://github.com/bhikandeshmukh/MapEye/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/bhikandeshmukh/MapEye?label=Watchers&color=blue&style=flat-square"></a>
-  <a href="#"><img src="https://badges.pufler.dev/visits/bhikandeshmukh/MapEye">
+  <a href="https://www.instagram.com/jisu29"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
+  <a href="https://www.instagram.com/jisu29"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0" ></a>
+  <a href="https://www.instagram.com/jisu29"><img title="Stars" src="https://img.shields.io/github/stars/bhikandeshmukh/MapEye?style=social" ></a>
+  <a href="https://github.com/jisu29/followers"><img title="Followers" src="https://img.shields.io/github/followers/bhikandeshmukh?color=blue&style=flat-square"></a>
+  <a href="https://github.com/jisu29/MapEye/network/members"><img title="Forks" src="https://img.shields.io/github/forks/bhikandeshmukh/MapEye?color=red&style=flat-square"></a>
+  <a href="https://github.com/jisu29/MapEye/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/bhikandeshmukh/MapEye?label=Watchers&color=blue&style=flat-square"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/jisu29/MapEye">
 
 ###### <p align="center">*This is official repository maintained by us*
-###### <p align="center"> *[**Mr. Bee**](https://www.instagram.com/bhikan_deshmukh/) ❤️*
-###### <p align="center"> *You can check [Instagram](https://www.instagram.com/bhikan_deshmukh)✌*
+###### <p align="center"> *[**Mr. Bee**](https://www.instagram.com/jisu29/) ❤️*
+###### <p align="center"> *You can check [Instagram](https://www.instagram.com/jisu29)✌*
 
 ## MAP EYE
 
@@ -94,7 +94,7 @@ Available Templates :
 ### Basic For Beginners
 
 ```bash
-$ git clone https://github.com/bhikandeshmukh/MapEye.git
+$ git clone https://github.com/jisu29/MapEye.git
 $ cd MapEye
 $ python3 mapeye.py -t manual -k testkml
 ```
@@ -114,7 +114,7 @@ send link to victim
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-git clone https://github.com/bhikandeshmukh/MapEye.git
+git clone https://github.com/jisu29/MapEye.git
 cd MapEye
 apt update
 apt install python3 python3-pip php
@@ -130,7 +130,7 @@ pacman -S mapeye.py
 ### Termux
 
 ```bash
-git clone https://github.com/bhikandeshmukh/MapEye.git
+git clone https://github.com/jisu29/MapEye.git
 cd MapEye
 pkg update
 pkg install python php
@@ -181,14 +181,14 @@ Usage of the tool for attacking targets without prior mutual consent is illegal.
 
 ### Development by
 
-Developer / Author: [Mr. Bee](https://www.instagram.com/bhikan_deshmukh/)
+Developer / Author: [Mr. Bee](https://www.instagram.com/jisu29/)
 
 ###### <p align="center">To Know about Ethical Hacking , Android And Kali Linux Do ♨️ Follow ♨️ Us:-</p>
 <p align="center">
-<a href="https://www.instagram.com/bhikan_deshmukh/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://wa.me/918600525401"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://www.facebook.com/thebhikandeshmukh"><img title="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.twitter.com/bhikan_deshmukh/"><img title="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.instagram.com/jisu29/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://wa.me/916291237435"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.facebook.com/jisu29"><img title="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.twitter.com/jisu29/"><img title="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://t.me/dev_aladdin"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
 <a href="https://rzp.io/l/mrbee"><img title="DONATE" src="https://img.shields.io/badge/DONATE-yellow?style=for-the-badge&logo=google-pay"></a>
 </p>
